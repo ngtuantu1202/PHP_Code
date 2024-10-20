@@ -1,0 +1,89 @@
+1:59:35 PM  [main] 	Initializing Control Panel
+1:59:35 PM  [main] 	Windows Version:  Home  64-bit
+1:59:35 PM  [main] 	XAMPP Version: 8.2.12
+1:59:35 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+1:59:35 PM  [main] 	You are not running with administrator rights! This will work for
+1:59:35 PM  [main] 	most application stuff but whenever you do something with services
+1:59:35 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:59:35 PM  [main] 	about running this application with administrator rights!
+1:59:35 PM  [main] 	XAMPP Installation Directory: "d:\github\php_code\xampp\"
+1:59:35 PM  [main] 	Checking for prerequisites
+1:59:35 PM  [main] 	All prerequisites found
+1:59:35 PM  [main] 	Initializing Modules
+1:59:35 PM  [main] 	Starting Check-Timer
+1:59:35 PM  [main] 	Control Panel Ready
+1:59:38 PM  [Apache] 	Attempting to start Apache app...
+1:59:38 PM  [Apache] 	Status change detected: running
+1:59:57 PM  [main] 	Deinitializing Modules
+1:59:57 PM  [main] 	Deinitializing Control Panel
+
+2:00:06 PM  [main] 	Initializing Control Panel
+2:00:06 PM  [main] 	Windows Version:  Home  64-bit
+2:00:06 PM  [main] 	XAMPP Version: 8.2.12
+2:00:06 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+2:00:06 PM  [main] 	You are not running with administrator rights! This will work for
+2:00:06 PM  [main] 	most application stuff but whenever you do something with services
+2:00:06 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:00:06 PM  [main] 	about running this application with administrator rights!
+2:00:06 PM  [main] 	XAMPP Installation Directory: "d:\github\php_code\xampp\"
+2:00:06 PM  [main] 	Checking for prerequisites
+2:00:06 PM  [main] 	All prerequisites found
+2:00:06 PM  [main] 	Initializing Modules
+2:00:06 PM  [Apache] 	XAMPP Apache is already running on port 80
+2:00:06 PM  [Apache] 	XAMPP Apache is already running on port 443
+2:00:06 PM  [main] 	Starting Check-Timer
+2:00:06 PM  [main] 	Control Panel Ready
+2:00:09 PM  [Apache] 	Attempting to stop Apache (PID: 16296)
+2:00:09 PM  [Apache] 	Attempting to stop Apache (PID: 5976)
+2:00:09 PM  [Apache] 	Status change detected: stopped
+2:00:11 PM  [main] 	Deinitializing Modules
+2:00:11 PM  [main] 	Deinitializing Control Panel
+
+2:00:14 PM  [main] 	Initializing Control Panel
+2:00:14 PM  [main] 	Windows Version:  Home  64-bit
+2:00:14 PM  [main] 	XAMPP Version: 8.2.12
+2:00:14 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+2:00:14 PM  [main] 	You are not running with administrator rights! This will work for
+2:00:14 PM  [main] 	most application stuff but whenever you do something with services
+2:00:14 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:00:14 PM  [main] 	about running this application with administrator rights!
+2:00:14 PM  [main] 	XAMPP Installation Directory: "d:\github\php_code\xampp\"
+2:00:14 PM  [main] 	Checking for prerequisites
+2:00:14 PM  [main] 	All prerequisites found
+2:00:14 PM  [main] 	Initializing Modules
+2:00:14 PM  [main] 	Starting Check-Timer
+2:00:14 PM  [main] 	Control Panel Ready
+2:00:16 PM  [Apache] 	Attempting to start Apache app...
+2:00:17 PM  [Apache] 	Status change detected: running
+3:00:20 PM  [mysql] 	Attempting to start MySQL app...
+3:00:20 PM  [mysql] 	Status change detected: running
+3:29:23 PM  [Apache] 	Attempting to stop Apache (PID: 6440)
+3:29:23 PM  [Apache] 	Attempting to stop Apache (PID: 8284)
+3:29:23 PM  [Apache] 	Status change detected: stopped
+3:29:24 PM  [mysql] 	Attempting to stop MySQL app...
+3:29:24 PM  [mysql] 	Status change detected: stopped
+3:29:29 PM  [main] 	Deinitializing Modules
+3:29:29 PM  [main] 	Deinitializing Control Panel
+
+1:37:16 PM  [main] 	Initializing Control Panel
+1:37:16 PM  [main] 	Windows Version:  Home  64-bit
+1:37:16 PM  [main] 	XAMPP Version: 8.2.12
+1:37:16 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+1:37:16 PM  [main] 	You are not running with administrator rights! This will work for
+1:37:16 PM  [main] 	most application stuff but whenever you do something with services
+1:37:16 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:37:16 PM  [main] 	about running this application with administrator rights!
+1:37:16 PM  [main] 	XAMPP Installation Directory: "d:\github\php_code\xampp\"
+1:37:16 PM  [main] 	Checking for prerequisites
+1:37:16 PM  [main] 	All prerequisites found
+1:37:16 PM  [main] 	Initializing Modules
+1:37:16 PM  [main] 	Starting Check-Timer
+1:37:16 PM  [main] 	Control Panel Ready
+1:37:19 PM  [Apache] 	Attempting to start Apache app...
+1:37:19 PM  [Apache] 	Status change detected: running
+4:26:58 PM  [Apache] 	Attempting to stop Apache (PID: 9184)
+4:26:58 PM  [Apache] 	Attempting to stop Apache (PID: 5728)
+4:26:59 PM  [Apache] 	Status change detected: stopped
+4:27:00 PM  [main] 	Deinitializing Modules
+4:27:00 PM  [main] 	Deinitializing Control Panel
+
